@@ -27,3 +27,4 @@ Approach_2.ipynb = Chroma Images on CNN
 
 Resnet.ipynb = Transfer Learning on hroma images
 
+Dataset - https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
